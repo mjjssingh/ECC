@@ -1,4 +1,3 @@
-# ECC
 # Elliptic Curve Cryptography (ECC) Image Encryption and Decryption
 
 This project demonstrates image encryption and decryption using Elliptic Curve Cryptography (ECC). ECC is a public-key cryptographic system based on the mathematical properties of elliptic curves. In this project, we use ECC to encrypt an image, store the encrypted data, and then decrypt it back to its original form.
