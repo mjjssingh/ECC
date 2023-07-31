@@ -15,7 +15,7 @@ To run this project, you will need the following dependencies:
 1. Clone this repository to your local machine
 
 ```bash
-git clone https://github.com/your-username/ecc-image-encryption.git
+git clone https://github.com/mjjssingh/ECC.git
 cd ecc-image-encryption
 ```
 
